@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Hello world!
+ * http://hasscript.com/1456/obje-klonlama-nedir orneği
  *
  */
 public class OrnekClone {
